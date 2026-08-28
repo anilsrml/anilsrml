@@ -34,7 +34,7 @@ Memory-efficient fine-tuning of the Turkish Kumru-2B language model on medical e
 ## Currently
 
 - Completing a B.Sc. in Computer Engineering at Bursa Technical University
-- Looking for Junior AI/ML Engineer and AI Engineering internship opportunities
+- Looking for Junior AI/ML Engineer and AI Engineering opportunities
 - Improving production ML, LLM application, and MLOps skills through hands-on projects
 
 ## Connect
