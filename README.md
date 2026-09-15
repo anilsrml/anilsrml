@@ -1,13 +1,13 @@
 # Hi, I'm Anıl Sürmeli 👋
 
-Computer Engineering student and Junior AI/ML Engineer focused on building practical machine-learning systems, LLM applications, and production-oriented AI workflows.
+Computer Engineer and Junior AI/ML Engineer focused on building practical machine-learning systems, LLM applications, and production-oriented AI workflows.
 
 ## Focus
 
+- LLM applications, RAG, MCP, and agentic systems
 - Applied machine learning and time-series forecasting
-- LLM fine-tuning, RAG, MCP, and agentic systems
-- MLOps workflows with MLflow, FastAPI, Docker, pytest, and GitHub Actions
-- Computer vision and edge inference
+- MLOps workflows with MLflow, FastAPI, Docker
+- Edge AI
 
 ## Featured projects
 
